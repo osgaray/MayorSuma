@@ -1,3 +1,6 @@
+// Oscar Octavio Garay Jarquín
+// 2024-1349U
+
 import java.util.Scanner;
 
 public class App {
